@@ -79,17 +79,3 @@ The directory structure of your new project looks like this:
     └── visualization  <- Scripts to create exploratory and results oriented visualizations
         └── visualize.py
 ```
-
-## Contributing
-
-We welcome contributions! [See the docs for guidelines](https://drivendata.github.io/cookiecutter-data-science/#contributing).
-
-### Installing development requirements
-------------
-
-    pip install -r requirements.txt
-
-### Running the tests
-------------
-
-    py.test tests
